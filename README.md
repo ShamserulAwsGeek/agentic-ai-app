@@ -79,6 +79,6 @@ MIT License - See [LICENSE](LICENSE) for details
 
 ## Contact
 
-Your Name - [@yourusername](https://twitter.com/yourusername)
+Your Name - [@ShamserulAwsGeek](https://twitter.com/yourusername)
 
-Project Link: [https://github.com/yourusername/agentic-ai-app](https://github.com/yourusername/agentic-ai-app)
+Project Link: [https://github.com/yourusername/agentic-ai-app](https://github.com/ShamserulAwsGeek/agentic-ai-app)
