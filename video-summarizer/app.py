@@ -103,7 +103,7 @@ st.markdown(
     """
     <style>
     .stTextArea textarea {
-        height: 110px;
+        height: 100px;
     }
     </style>
     """,
