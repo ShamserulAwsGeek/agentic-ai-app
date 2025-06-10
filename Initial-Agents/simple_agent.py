@@ -18,4 +18,4 @@ agent=Agent(
     markdown=True
 )
 
-agent.print_response("Who won the India vs Newzealand finals in CT 2025")
+agent.print_response("Who won the Portugal vs Spain UEFA finals in  2025")
