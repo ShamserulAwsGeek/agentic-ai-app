@@ -1,1 +1,2 @@
+#added to ignore files that should not be tracked by git
 .env
